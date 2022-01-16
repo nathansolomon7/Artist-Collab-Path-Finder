@@ -1,0 +1,21 @@
+arghtht
+bfs
+bill
+arianaaa
+not
+Adam Levine
+Kanye West
+Kendrick Lamar
+Rihanna
+The Lonely Island
+Nicki Minaj
+*
+not
+Adam Levine
+Kanye West
+artist
+*
+not
+sourceInvalid
+destInvalid
+excludeInvalid
