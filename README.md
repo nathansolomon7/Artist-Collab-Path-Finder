@@ -3,8 +3,10 @@ Nathan Solomon
 
 10-28-21
 
-Purpose: creates a program that gives the relations between artists when 
-given song information about an artist
+Purpose: Creates a program that can find the shortest path 
+of artists between two artists' related collabarations when
+given a list of information regarding artists and the songs
+each has worked on
  
 
 Known bugs: none
