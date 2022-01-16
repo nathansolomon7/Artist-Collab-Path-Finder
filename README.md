@@ -1,6 +1,8 @@
 # Artist-Collab-Path-Finder
 Nathan Solomon
+
 10-28-21
+
 Purpose: creates a program that gives the relations between artists when 
 given song information about an artist
  
